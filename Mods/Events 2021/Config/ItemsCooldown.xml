@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemsCooldown>
+	<ItemCooldown item="medicalBandage" mods=" , " dye="" price="30"/>
+	<ItemCooldown item="medicalFirstAidBandage" mods=" , " dye="" price="50"/>
+	<ItemCooldown item="medicalFirstAidKit" mods=" , " dye="" price="100"/>
+	<ItemCooldown item="resourceRepairKit" mods=" , " dye="" price="50"/>
+	<ItemCooldown item="ammo762mmBulletBall" mods=" , " dye="" price="1"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeGreen" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeBlack" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeRed" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyePink" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeWhite" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeYellow" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeBlue" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeBrown" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeGreen" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeBlack" price="20000"/>
+	<ItemCooldown item="gunMGT3M60" mods="modGunMeleeRadRemover,modGunScopeSmall" dye="modDyeRed" price="20000"/>
+</ItemsCooldown>
